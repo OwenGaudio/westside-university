@@ -17,5 +17,18 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "api": "json-server --watch db.json --port 3005 --delay 500"
-  }
+  },
+  "description": "<img src=\"https://s3.amazonaws.com/devmountain/readme-logo.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenGaudio/westside-university.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwenGaudio/westside-university/issues"
+  },
+  "homepage": "https://github.com/OwenGaudio/westside-university#readme"
 }
